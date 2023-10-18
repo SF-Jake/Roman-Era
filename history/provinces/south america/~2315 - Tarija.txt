@@ -1,8 +1,0 @@
-owner = BOL
-controller = BOL
-add_core = BOL
-trade_goods = wool
-life_rating = 35
-1913.1.1 = {
-	remove_core = ARC
-}

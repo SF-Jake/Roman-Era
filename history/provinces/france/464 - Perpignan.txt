@@ -1,7 +1,6 @@
 owner = SPC
 controller = SPC
 add_core = SPC
-add_core = FRA
 trade_goods = fish
 life_rating = 32
 naval_base = 2

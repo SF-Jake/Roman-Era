@@ -1,10 +1,10 @@
 bookmark =
 {
-	name = "The great collapse"
+	name = "The Great collapse"
 	desc = "The Roman Empire has fallen and Francia along with it as both powers struggle to regain control of there territory the german brothers begin to plan there attack."
 	date = 1836.1.1
-	cameraX = 2200
-	cameraY = 1600
+	cameraX = 2950
+	cameraY = 1550
 }
 
 #bookmark =
