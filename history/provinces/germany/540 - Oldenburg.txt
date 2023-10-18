@@ -1,0 +1,13 @@
+owner = HAN
+controller = HAN
+add_core = HAN
+add_core = GER
+trade_goods = fish
+life_rating = 40
+1913.1.1 = {
+	naval_base = 6
+}
+1913.1.1 = {
+	owner = GER
+	controller = GER
+}

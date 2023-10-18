@@ -1,0 +1,13 @@
+owner = GNG
+controller = GNG
+add_core = GNG
+trade_goods = grain
+life_rating = 30
+1913.1.1 = {
+	state_building = {
+		level = 3
+		building = tea_packaging_factory
+		upgrade = yes
+	}
+	naval_base = 4
+}

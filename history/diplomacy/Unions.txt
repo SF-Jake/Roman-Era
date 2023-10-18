@@ -1,0 +1,7 @@
+#Muscovy Puppets
+substate = {
+	first = MUS
+	second = UKR
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}

@@ -1,0 +1,8 @@
+owner = POR
+controller = POR
+add_core = POR
+trade_goods = coal
+life_rating = 35
+1913.1.1 = {
+	remove_core = RGS
+}

@@ -1,0 +1,10 @@
+owner = HYD
+controller = HYD
+add_core = HYD
+trade_goods = wool
+life_rating = 32
+1913.1.1 = {
+	owner = EIC
+	controller = EIC
+	colonial = 0
+}

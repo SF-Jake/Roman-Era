@@ -1,0 +1,10 @@
+owner = VIJ
+controller = VIJ
+add_core = VIJ
+trade_goods = silk
+life_rating = 32
+1913.1.1 = {
+	owner = EIC
+	controller = EIC
+	colonial = 0
+}

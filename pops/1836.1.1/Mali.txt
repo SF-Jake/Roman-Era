@@ -1,0 +1,1238 @@
+#Mali Region (648000)  
+#uncolonized in 1836/ruled by Kingdom of Segu
+#Bamako (148000/37000 POPS)
+1794 = {
+	aristocrats = {
+		culture = united_culture
+		religion = animist
+		size = 425
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = animist
+		size = 225
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 950
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 250
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = animist
+		size = 15150
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 125
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 350
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 75
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 6375
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = animist
+		size = 125
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 350
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = animist
+		size = 6375
+	}
+
+	slaves = {
+		culture = united_culture
+		religion = animist
+		size = 6000
+	}
+}
+#Segu (256000/64000 POPS)
+1800 = {
+	aristocrats = {
+		culture = united_culture
+		religion = animist
+		size = 925
+	}
+
+	bureaucrats = {
+		culture = united_culture
+		religion = animist
+		size = 75
+	}
+
+	officers = {
+		culture = united_culture
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = animist
+		size = 475
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 1950
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 500
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = animist
+		size = 33900
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 125
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 350
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 75
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 6375
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 450
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = animist
+		size = 8225
+	}
+
+	slaves = {
+		culture = united_culture
+		religion = animist
+		size = 10000
+	}
+}
+#Mourdiah (64000/16000 POPS)
+1801 = {
+	aristocrats = {
+		culture = united_culture
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 250
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = animist
+		size = 2550
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 300
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 75
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 5475
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = animist
+		size = 75
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 200
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = animist
+		size = 3625
+	}
+
+	slaves = {
+		culture = united_culture
+		religion = animist
+		size = 3000
+	}
+}
+#uncolonized in 1836/ruled by Sultan of Macina
+#Jenne (180000/45000 POPS)
+1802 = {
+	aristocrats = {
+		culture = united_culture
+		religion = animist
+		size = 425
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = animist
+		size = 225
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 1100
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 225
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = animist
+		size = 20025
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 125
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 525
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 125
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 6000
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 500
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = animist
+		size = 9150
+	}
+
+	slaves = {
+		culture = united_culture
+		religion = animist
+		size = 6000
+	}
+}
+#Bambuk Region (256000)  
+#uncolonized in 1836/ruled by Kingdom of Segu
+#Kayes (100000/25000 POPS)
+1795 = {
+	aristocrats = {
+		culture = united_culture
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 125
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = animist
+		size = 1725
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 400
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 875
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 17275
+	}
+
+	slaves = {
+		culture = united_culture
+		religion = animist
+		size = 4000
+	}
+}
+#Nioro (80000/20000 POPS)
+1796 = {
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 125
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 525
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 125
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 8000
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = animist
+		size = 125
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 300
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = animist
+		size = 4425
+	}
+
+	slaves = {
+		culture = united_culture
+		religion = animist
+		size = 6000
+	}
+}
+#Kita (76000/19000 POPS)
+1797 = {
+	aristocrats = {
+		culture = united_culture
+		religion = animist
+		size = 200
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 450
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 125
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = animist
+		size = 6125
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 250
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 75
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 3525
+	}
+
+	slaves = {
+		culture = united_culture
+		religion = animist
+		size = 6000
+	}
+}
+#Bure Region (136000) #see Guinea.txt and Ivory Coast.txt for balance of region 
+#uncolonized in 1836/under loose rule of Segu
+#Bourgouni (136000/34000 POPS)
+1798 = {
+	aristocrats = {
+		culture = united_culture
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = animist
+		size = 250
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 1050
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 275
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = animist
+		size = 20925
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 2700
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 250
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = animist
+		size = 4575
+	}
+
+	slaves = {
+		culture = united_culture
+		religion = animist
+		size = 3000
+	}
+}
+#Worodugu Region (172000)  #see Burkina.txt and Ivory Coast.txt for balance of region 
+#uncolonized in 1836/under loose rule of Segu
+#Sikasso (172000/43000 POPS)
+1799 = {
+	aristocrats = {
+		culture = united_culture
+		religion = animist
+		size = 325
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = animist
+		size = 175
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 725
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 175
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = animist
+		size = 10600
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 1800
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = animist
+		size = 425
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = animist
+		size = 225
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 925
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 225
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = animist
+		size = 13200
+	}
+
+	slaves = {
+		culture = united_culture
+		religion = animist
+		size = 14000
+	}
+}
+#Macina Region (536000)  
+#uncolonized in 1836/ruled by Sultan of Macina
+#Timbuktu (184000/46000 POPS)
+1803 = {
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 600
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 300
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 1250
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 325
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 21525
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 275
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 575
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 8850
+	}
+
+	slaves = {
+		culture = united_culture
+		religion = animist
+		size = 11000
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 10
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 15
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 900
+	}
+}
+#Bandiagara (236000/59000 POPS)
+1804 = {
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 225
+	}
+
+	bureaucrats = {
+		culture = united_culture
+		religion = sunni
+		size = 50
+	}
+
+	officers = {
+		culture = united_culture
+		religion = sunni
+		size = 75
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 575
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 7775
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = animist
+		size = 325
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = animist
+		size = 175
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 850
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 175
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = animist
+		size = 15475
+	}
+
+	slaves = {
+		culture = united_culture
+		religion = animist
+		size = 5000
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = animist
+		size = 300
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = animist
+		size = 175
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 1100
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 200
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = animist
+		size = 18325
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 400
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = animist
+		size = 7300
+	}
+}
+#Gao (116000/29000 POPS) #under Tuareg control 1836 
+1805 = {
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 175
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 375
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 2350
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 350
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 200
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 950
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 17300
+	}
+
+	slaves = {
+		culture = united_culture
+		religion = animist
+		size = 6000
+	}
+}
+#Azawad Region (36000)  
+#uncolonized in 1836/dominated by Tuareg
+#Taoudenni (8000/2000 POPS)
+1806 = {
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 1300
+	}
+
+	slaves = {
+		culture = united_culture
+		religion = animist
+		size = 500
+	}
+}
+#Tessalit (16000/4000 POPS)
+1807 = {
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 200
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 2625
+	}
+
+	slaves = {
+		culture = united_culture
+		religion = animist
+		size = 1100
+	}
+}
+#Araouane (12000/3000 POPS)
+2609 = {
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 2200
+	}
+
+	slaves = {
+		culture = united_culture
+		religion = animist
+		size = 500
+	}
+
+}

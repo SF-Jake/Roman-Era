@@ -1,0 +1,10 @@
+owner = FRA
+controller = FRA
+colony = 2
+trade_goods = fruit
+life_rating = 35
+1913.1.1 = {
+	owner = DOM
+	controller = DOM
+	remove_core = HAI
+}

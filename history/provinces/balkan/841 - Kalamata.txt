@@ -1,0 +1,10 @@
+owner = RME
+controller = RME
+add_core = RME
+trade_goods = fruit
+life_rating = 40
+1914.7.28 = {
+owner = KGR
+controller = KGR
+add_core = KGR
+}

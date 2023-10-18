@@ -1,0 +1,11 @@
+owner = DNG
+controller = DNG
+add_core = DNG
+trade_goods = fish
+life_rating = 45
+1913.1.1 = {
+	controller = USA
+	owner = USA
+	add_core = USA
+	remove_core = MEX
+}

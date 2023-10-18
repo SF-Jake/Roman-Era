@@ -1,0 +1,256 @@
+political_decisions = {
+	banker_income = {
+		potential = {
+			tag = GHO
+		}
+		
+		allow = {
+			NOT = { has_country_flag = banker_income_timer }
+		}
+		
+		effect = {
+			set_country_flag = banker_income_timer
+			add_country_modifier = { name = banker_income_timer duration = 5 }
+			any_pop = {
+				limit = { 
+					type = bankers 
+					NOT = { cash_reserves = 0.1 }
+				}
+				money = 2000000
+			}
+		}
+	}
+
+	banker_income_timer = {
+		potential = {
+			tag = GHO
+		}
+		
+		allow = {
+			has_country_flag = banker_income_timer
+			NOT = { has_country_modifier = banker_income_timer }
+		}
+		
+		effect = {
+			clr_country_flag = banker_income_timer
+		}
+	}
+
+	banker_reduce_money = {
+		potential = {
+			tag = JAN
+		}
+
+		allow = {
+			money = 20000000
+		}
+
+		effect = {
+			money = -19000000
+		}
+	}
+
+	# banker_setup = {
+	# 	potential = {
+	# 		tag = JAN
+	# 	}
+		
+	# 	allow = {
+	# 		NOT = { has_country_flag = banker_annex }
+	# 	}
+		
+	# 	effect = {
+	# 		set_country_flag = banker_annex
+	# 		world_wars_enabled = yes
+	# 		any_owned = {
+	# 			remove_core = GER
+	# 			remove_core = FRA
+	# 			remove_core = USA
+	# 			remove_core = CSA
+	# 		}
+	# 		any_country = {
+	# 			limit = {
+	# 				NOT = {
+	# 					tag = GHO
+	# 					tag = GER
+	# 					tag = FRA
+	# 					tag = USA
+	# 					tag = CSA
+	# 					tag = AUS
+	# 					tag = ITA
+	# 					ai = no
+	# 				}
+	# 			}
+	# 			any_owned = {
+	# 				secede_province = THIS
+	# 				add_core = THIS
+	# 			}
+	# 		}
+	# 		any_pop = {
+	# 			limit = { type = soldiers }
+	# 			pop_type = farmers
+	# 		}
+	# 		any_country = {
+	# 			activate_technology = early_classical_theory_and_critique
+	# 		}
+	# 		any_country = {
+	# 			limit = { ai = no }
+	# 			money = 350000
+	# 		}
+	# 		set_country_flag = jan_mayen
+	# 		GHO = { 
+	# 			set_country_flag = jan_mayen
+	# 		}
+	# 		GHO = {
+	# 			add_country_modifier = {
+	# 				name = bank_nerf
+	# 				duration = -1
+	# 			}
+	# 		}
+	# 		add_country_modifier = {
+	# 			name = bank_nerf
+	# 			duration = -1
+	# 		}
+	# 		GER = { 
+	# 			add_country_modifier = {
+	# 				name = national_1v1
+	# 				duration = -1
+	# 			}
+	# 			any_owned = {
+	# 				remove_core = JAN
+	# 			}
+	# 		}
+	# 		FRA = { 
+	# 			add_country_modifier = {
+	# 				name = national_1v1
+	# 				duration = -1
+	# 			}
+	# 			any_owned = {
+	# 				remove_core = JAN
+	# 			}
+	# 		}
+	# 		AUS = { 
+	# 			add_country_modifier = {
+	# 				name = national_1v1
+	# 				duration = -1
+	# 			}
+	# 			any_owned = {
+	# 				remove_core = JAN
+	# 			}
+	# 		}
+	# 		ITA = { 
+	# 			add_country_modifier = {
+	# 				name = national_1v1
+	# 				duration = -1
+	# 			}
+	# 			any_owned = {
+	# 				remove_core = JAN
+	# 			}
+	# 		}
+	# 		USA = { 
+	# 			add_country_modifier = {
+	# 				name = national_1v1
+	# 				duration = -1
+	# 			}
+	# 			any_owned = {
+	# 				remove_core = JAN
+	# 			}
+	# 		}
+	# 		CSA = { 
+	# 			add_country_modifier = {
+	# 				name = national_1v1
+	# 				duration = -1
+	# 			}
+	# 			any_owned = {
+	# 				remove_core = JAN
+	# 			}
+	# 		}
+	# 	}
+	# }
+
+	# banker_FRAvsGER_1v1 = {
+	# 	potential = {
+	# 		tag = JAN
+	# 	}
+
+	# 	allow = {
+	# 		has_global_flag = FRAvsGER_1v1
+	# 		NOT = { has_country_flag = banker_FRAvsGER_1v1 }
+	# 		year = 1848
+	# 	}
+
+	# 	effect = {
+	# 		set_country_flag = banker_FRAvsGER_1v1 
+	# 		FRA = {
+	# 			war = {
+	# 				target = GER
+	# 				attacker_goal = { casus_belli = status_quo }
+	# 				defender_goal = { casus_belli = status_quo }
+	# 			}
+	# 		}
+	# 	}
+	# }
+	# banker_FRA_ITAvsGER_AUS_2v2 = {
+	# 	potential = {
+	# 		tag = JAN
+	# 	}
+
+	# 	allow = {
+	# 		has_global_flag = FRA_ITAvsGER_AUS_2v2
+	# 		NOT = { has_country_flag = banker_FRA_ITAvsGER_AUS_2v2 }
+	# 		year = 1848
+	# 	}
+
+	# 	effect = {
+	# 		set_country_flag = banker_FRA_ITAvsGER_AUS_2v2 
+	# 		ITA = { 
+	# 			create_alliance = FRA
+	# 			leave_alliance = GER
+	# 			leave_alliance = AUS
+	# 		}
+	# 		AUS = { 
+	# 			create_alliance = GER
+	# 			leave_alliance = FRA
+	# 			leave_alliance = ITA
+	# 		}
+	# 		GER = {
+	# 			create_alliance = AUS
+	# 			leave_alliance = FRA
+	# 			leave_alliance = ITA
+	# 		}
+	# 		FRA = {
+	# 			create_alliance = ITA
+	# 			leave_alliance = GER
+	# 			leave_alliance = AUS
+	# 			war = {
+	# 				target = GER
+	# 				attacker_goal = { casus_belli = status_quo }
+	# 				defender_goal = { casus_belli = status_quo }
+	# 				call_ally = yes
+	# 			}
+	# 		}
+	# 	}
+	# }
+	# banker_USAvsCSA_1v1 = {
+	# 	potential = {
+	# 		tag = JAN
+	# 	}
+
+	# 	allow = {
+	# 		has_global_flag = USAvsCSA_1v1
+	# 		NOT = { has_country_flag = banker_USAvsCSA_1v1 }
+	# 		year = 1848
+	# 	}
+
+	# 	effect = {
+	# 		set_country_flag = banker_USAvsCSA_1v1 
+	# 		USA = {
+	# 			war = {
+	# 				target = CSA
+	# 				attacker_goal = { casus_belli = status_quo }
+	# 				defender_goal = { casus_belli = status_quo }
+	# 			}
+	# 		}
+	# 	}
+	# }
+}

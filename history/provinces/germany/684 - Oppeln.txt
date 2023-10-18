@@ -1,0 +1,16 @@
+owner = BOH
+controller = BOH
+add_core = BOH
+add_core = GER
+trade_goods = wool
+life_rating = 40
+1913.1.1 = {
+	fort = 2
+	owner = GER
+	controller = GER
+	state_building = {
+		level = 5
+		building = pharmaceutical_plant
+		upgrade = yes
+	}
+}

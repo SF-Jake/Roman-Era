@@ -1,0 +1,30 @@
+country_event = {
+	title = "Starting Supplies"
+	desc = "A chest of goodies appeared at the doorstep of our capitol"
+	id = 100000
+	picture = battleship
+
+
+	trigger = {
+		OR = {
+			tag = USA
+			tag = CSA
+			tag = ITA
+			tag = AUS
+			tag = GER
+			tag = FRA
+		}
+		NOT = { has_country_flag = starting_supplies }
+	}
+	
+	option = {
+		name = "Nice!"
+		set_country_flag = starting_supplies
+		steel = 2000
+		cement = 2000
+		machine_parts = 500
+		ammunition = 1000
+		small_arms = 500
+		artillery = 250
+	}
+}

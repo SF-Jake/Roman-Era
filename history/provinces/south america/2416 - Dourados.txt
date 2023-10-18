@@ -1,0 +1,19 @@
+trade_goods = fruit
+life_rating = 25
+1913.1.1 = {
+	state_building = {
+		level = 1
+		building = electric_gear_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 1
+		building = coffee_packaging_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 1
+		building = luxury_furniture_factory
+		upgrade = yes
+	}
+}

@@ -1,0 +1,10 @@
+owner = SCA
+controller = SCA
+add_core = SCA
+trade_goods = grain
+life_rating = 40
+1913.1.1 = {
+	owner = RUS
+	controller = RUS
+	remove_core = SWE
+}

@@ -1,0 +1,11 @@
+owner = GRE
+controller = GRE
+add_core = GRE
+trade_goods = fish
+life_rating = 40
+1913.1.1 = {
+	owner = MON
+	controller = MON
+	remove_core = TUR
+	naval_base = 2
+}

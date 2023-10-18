@@ -1,0 +1,6 @@
+owner = CSA
+controller = CSA
+add_core = CSA
+trade_goods = cattle
+life_rating = 35
+ 

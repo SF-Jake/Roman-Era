@@ -1,0 +1,5 @@
+owner = MGL
+controller = MGL
+add_core = MGL
+trade_goods = sulphur
+life_rating = 32

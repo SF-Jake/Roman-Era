@@ -1,0 +1,8 @@
+owner = GNG
+controller = GNG
+add_core = GNG
+trade_goods = fruit
+life_rating = 30
+1913.1.1 = {
+	naval_base = 4
+}

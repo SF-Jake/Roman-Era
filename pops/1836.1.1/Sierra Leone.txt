@@ -1,0 +1,282 @@
+#Sierra Leone Region (752000) 
+#uncolonized in 1836/Britain has trade post in 1836
+#Freetown (400000/100000 POPS) 
+1884 = {
+	artisans = {
+		culture = united_culture
+		religion = protestant
+		size = 250
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = protestant
+		size = 50
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = protestant
+		size = 4700
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 675
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 350
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 1650
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 350
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 31975
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 875
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 2300
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 450
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 42025
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = animist
+		size = 250
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 700
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = animist
+		size = 12750
+	}
+}
+#uncolonized in 1836
+#Bo (352000/88000 POPS) 
+1886 = {
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 900
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 475
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 1875
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 475
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 36275
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = animist
+		size = 800
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = animist
+		size = 400
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 2000
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 425
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = animist
+		size = 37375
+	}
+
+	slaves = {
+		culture = united_culture
+		religion = animist
+		size = 7000
+	}
+}
+#Jallon Region (384000) #see Guinea.txt for balance of Region
+#uncolonized in 1836
+#Falaba (384000/96000 POPS) #now part of Sierra Leone 
+1885 = {
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 925
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 475
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 1900
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 475
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 36225
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 800
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 400
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 1650
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 425
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 31725
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = animist
+		size = 125
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 400
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = animist
+		size = 7300
+	}
+
+	slaves = {
+		culture = united_culture
+		religion = animist
+		size = 13000
+	}
+
+}

@@ -1,0 +1,12 @@
+owner = RME
+controller = RME
+add_core = RME
+trade_goods = fish
+life_rating = 32
+1913.1.1 = {
+	remove_core = ITA
+	remove_core = SAR
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+}

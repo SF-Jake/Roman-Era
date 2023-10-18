@@ -1,0 +1,9 @@
+owner = BOH
+controller = BOH
+add_core = BOH
+trade_goods = coal
+life_rating = 40
+1913.1.1 = {
+owner = GER
+controller = GER
+}

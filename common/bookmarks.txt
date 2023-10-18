@@ -1,0 +1,17 @@
+bookmark =
+{
+	name = "The great collapse"
+	desc = "The Roman Empire has fallen and Francia along with it as both powers struggle to regain control of there territory the german brothers begin to plan there attack."
+	date = 1836.1.1
+	cameraX = 2200
+	cameraY = 1600
+}
+
+#bookmark =
+#{
+#	name = "ACW_NAME"
+#	desc = "ACW_DESC"
+#	date = 1861.7.1
+#	cameraX = 1270
+#	cameraY = 1450
+#}

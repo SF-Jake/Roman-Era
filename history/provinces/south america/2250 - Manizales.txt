@@ -1,0 +1,8 @@
+owner = SPC
+controller = SPC
+add_core = SPC
+trade_goods = fruit
+life_rating = 35
+1913.1.1 = {
+	trade_goods = coffee_beans
+}

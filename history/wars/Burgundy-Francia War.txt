@@ -1,0 +1,23 @@
+name = "Burgundy War of Independence"
+
+1834.5.2 = {
+	add_attacker = FRA
+	add_defender = BRG
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = conquest
+		actor = FRA
+		receiver = BRG
+	}
+  	war_goal = {
+		casus_belli = status_quo
+		actor = BRG
+		receiver = FRA
+	}
+
+}

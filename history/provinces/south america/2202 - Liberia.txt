@@ -1,0 +1,10 @@
+owner = RME
+controller = RME
+colony = 2
+trade_goods = fruit
+life_rating = 40
+1913.1.1 = {
+	owner = COS
+	controller = COS
+	remove_core = UCA
+}

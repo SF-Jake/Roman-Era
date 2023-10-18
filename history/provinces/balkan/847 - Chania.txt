@@ -1,0 +1,15 @@
+owner = RME
+controller = RME
+add_core = RME
+trade_goods = fish
+life_rating = 40
+1913.1.1 = {
+owner = GRE
+controller = GRE
+remove_core = EGY
+remove_core = TUR
+colonial = 0
+}
+1914.7.28 = {
+add_core = KGR
+}

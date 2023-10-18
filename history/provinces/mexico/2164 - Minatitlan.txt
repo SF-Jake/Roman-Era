@@ -1,0 +1,5 @@
+owner = RME
+controller = RME
+colony = 2
+trade_goods = iron
+life_rating = 35

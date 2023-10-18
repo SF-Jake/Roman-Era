@@ -1,0 +1,10 @@
+owner = KAS
+controller = KAS
+add_core = KAS
+trade_goods = grain
+life_rating = 32
+1913.1.1 = {
+	owner = EIC
+	controller = EIC
+	colonial = 0
+}

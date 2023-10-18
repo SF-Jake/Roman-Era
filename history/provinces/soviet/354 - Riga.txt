@@ -1,0 +1,16 @@
+owner = EST
+controller = EST
+add_core = EST
+trade_goods = fish
+life_rating = 35
+1913.1.1 = {
+	owner = RUS
+	controller = RUS
+}
+1913.1.1 = { 
+	state_building = {
+		level = 1
+		building = glass_factory
+		upgrade = yes
+	} 
+}

@@ -1,0 +1,165 @@
+#Cyprus Region (152000)
+#under the rule of Ottoman Empire in 1836  
+#Nicosia (64000/16000 POPS)
+855 = {
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 275
+	}
+
+	bureaucrats = {
+		culture = united_culture
+		religion = sunni
+		size = 50
+	}
+
+	officers = {
+		culture = united_culture
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 500
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 175
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 2875
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = orthodox
+		size = 750
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = orthodox
+		size = 11150
+	}
+}
+#Limassol (44000/11000 POPS)
+856 = {
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 300
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 1350
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = orthodox
+		size = 75
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = orthodox
+		size = 400
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = orthodox
+		size = 8525
+	}
+}
+#Famagusta (44000/11000 POPS)
+857 = {
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 2500
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = orthodox
+		size = 75
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = orthodox
+		size = 400
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = orthodox
+		size = 7525
+	}
+
+}

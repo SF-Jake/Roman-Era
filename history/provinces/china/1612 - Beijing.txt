@@ -1,0 +1,7 @@
+owner = CHI
+controller = CHI
+add_core = CHI
+trade_goods = grain
+terrain = beijing
+life_rating = 30
+fort = 1

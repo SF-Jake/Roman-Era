@@ -1,0 +1,140 @@
+;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+SPC;Castile;;;;;;;;;;;;;x
+SPC_absolute_monarchy;Castile;;;;;;;;;;;;;x
+SPC_prussian_constitutionalism;Castile;;;;;;;;;;;;;x
+SPC_hms_government;Castile;;;;;;;;;;;;;x
+SPC_ADJ;Spanish;;;;;;;;;;;;;x
+SPA;Granada;;;;;;;;;;;;;x
+SPA_absolute_monarchy;Granada;;;;;;;;;;;;;x
+SPA_prussian_constitutionalism;Granada;;;;;;;;;;;;;x
+SPA_hms_government;Granada;;;;;;;;;;;;;x
+SPA_ADJ;Granadian;;;;;;;;;;;;;x
+RME;Rome;;;;;;;;;x;;;;
+RME_ADJ;Roman;;;;;;;;;x;;;;
+GRE;Macedonia;;;;;;;;;x;;;;
+GRE_ADJ;Macedonian;;;;;;;;;x;;;;
+CRO;Illyria;;;;;;;;;x;;;;
+CRO_ADJ;Illyrian;;;;;;;;;x;;;;
+CRI;Great Horde;;;;;;;;;x;;;;
+CRI_ADJ;Great;;;;;;;;;x;;;;
+ROM;Black Sea Empire;;;;;;;;;x;;;;
+ROM_ADJ;Black Sea;;;;;;;;;x;;;;
+ENG;England;Royaume-Uni;;;;;;;;;x;;;;
+ENG_ADJ;English;;;;;;;;;x;;;;
+BOH;Bohemia;;;;;;;;;x;;;;
+BOH_ADJ;Bohemian;;;;;;;;;x;;;;
+SIB;Sibir;;;;;;;;;x;;;;
+SIB_ADJ;Sibiran;;;;;;;;;x;;;;
+MGL;Dzungar Khanate;;;;;;;;;x;;;;
+MGL_ADJ;Dzungar;;;;;;;;;x;;;;
+MGL_reactionary;Lama Faction;;;;;;;;;x;;;;
+MGL_socialist;Socialist Party;;;;;;;;;x;;;;
+MGL_communist;Communist Party;;;;;;;;;x;;;;
+MGL_liberal;Liberal Party;;;;;;;;;x;;;;
+MGL_anarcho_liberal;Freedom Party;;;;;;;;;x;;;;
+MGL_conservative;Conservative Party;;;;;;;;;x;;;;
+MGL_fascist;Unity Party;;;;;;;;;x;;;;
+CHI_presidential_dictatorship;Yuan Dynasty;;;;;;;;;;;;;x
+CHI_proletarian_dictatorship;People's Republic of Yuan;;;;;;;;;;;;;x
+CHI_democracy;Republic of Yuan;;;;;;;;;;;;;x
+CHI_absolute_monarchy;Yuan Dynasty;;;;;;;;;;;;;x
+CHI;Yuan Dynasty;;;;;;;;;;;;;x
+CHI_ADJ;Yuan;;;;;;;;;;;;;x
+GNG;Tungning;;;;;;;;;;;;x
+GNG_ADJ;Tungning;;;;;;;;;;;;x
+GNG_presidential_dictatorship;Tungning Clique;;;;;;;;;;;;x
+GNG_reactionary;Beiyang Faction;;;;;;;;;;;;;x
+GNG_socialist;Socialist Party;;;;;;;;;;;;;x
+GNG_communist;Chinese Communist Party;;;;;;;;;;;;;x
+GNG_liberal;Liberal Party;;;;;;;;;;;;;x
+GNG_conservative;Kuomintang Faction;;;;;;;;;;;;;x
+GNG_fascist;Fascist Party;;;;;;;;;;;;;x
+GNG_anarcho_liberal;Freedom Party;;;;;;;;;;;;;x
+CHK;Champa;;;;;;;;;;;;;x
+CHK_ADJ;Champa;;;;;;;;;;;;;x
+CHK_conservative;Royal Faction;;;;;;;;;;;;x
+CHK_liberal;The Liberal Faction;;;;;;;;;;;;x
+CHK_reactionary;The Nationalist Faction;;;;;;;;;;;;x
+CHK_anarcho_liberal;The Radical Faction;;;;;;;;;;;;x
+CHK_socialist;The Socialist Faction;;;;;;;;;;;;x
+CHK_communist;The Communist Faction;;;;;;;;;;;;x
+CHK_fascist;The Fascist Faction;;;;;;;;;;;;x
+TUR;Seljuk Empire;;;;;;;;;x;;;;
+TUR_ADJ;Seljuks;;;;;;;;;x;;;;
+CSA_democracy;Frankish Conederation;;;;;;;;;;;;x
+CSA_presidential_dictatorship;The Frankish Conederation;;;;;;;;;;;;x
+CSA_bourgeois_dictatorship;The Frankish Conederation;;;;;;;;;;;;x
+CSA_absolute_monarchy;The Imperial Confederation;;;;;;;;;;;;x
+CSA_prussian_constitutionalism;The Imperial Confederation;;;;;;;;;;;;x
+CSA;The Frankish Conederation;;;;;;;;;;;;;;
+CSA_ADJ;Frankish;;;;;;;;;;;;;;
+CSA_fascist_dictatorship;The Conederation;;;;;;;;;;;;;;
+CSA_proletarian_dictatorship;The People's Conederation;;;;;;;;;;;;x
+USA;The French Republic;;;;;;;;;x;;;;
+USA_bourgeois_dictatorship;The French Republic;;;;;;;;;x;;;;
+USA_absolute_monarchy;The French Empire;;;;;;;;;x;;;;
+USA_prussian_constitutionalism;The French Empire;;;;;;;;;x;;;;
+USA_hms_government;The Kingdom of French;;;;;;;;;x;;;;
+USA_ADJ;French;;;;;;;;;x;;;;
+USA_presidential_dictatorship;The French Republic;;;;;;;;;x;;;;
+USA_bourgeois_dictatorship;The French Republic;;;;;;;;;x;;;;
+USA_fascist_dictatorship;The French Republic;;;;;;;;;x;;;;
+USA_democracy;The French Republic;;;;;;;;;x;;;;
+TEX;Two Rivers Republic;;;;;;;;;x;;;;
+TEX_bourgeois_dictatorship;The Two Rivers Republic;;;;;;;;;x;;;;
+TEX_absolute_monarchy;The Two Rivers Empire;;;;;;;;;x;;;;
+TEX_prussian_constitutionalism;The Two Rivers Empire;;;;;;;;;x;;;;
+TEX_hms_government;The Kingdom of the Two Rivers;;;;;;;;;x;;;;
+TEX_ADJ;French;;;;;;;;;x;;;;
+TEX_presidential_dictatorship;The Two Rivers Republic;;;;;;;;;x;;;;
+TEX_bourgeois_dictatorship;The Two Rivers Republic;;;;;;;;;x;;;;
+TEX_fascist_dictatorship;The Two Rivers Republic;;;;;;;;;x;;;;
+TEX_democracy;The Two Rivers Republic;;;;;;;;;x;;;;
+INC;Inca Empire;;;;;;;;;x;;;;
+INC_bourgeois_dictatorship;The Incan Republic;;;;;;;;;x;;;;
+INC_absolute_monarchy;The Incan Empire;;;;;;;;;x;;;;
+INC_prussian_constitutionalism;The Incan Empire;;;;;;;;;x;;;;
+INC_hms_government;The Kingdom of the Inca;;;;;;;;;x;;;;
+INC_ADJ;Incan;;;;;;;;;x;;;;
+INC_presidential_dictatorship;The Incan Republic;;;;;;;;;x;;;;
+INC_bourgeois_dictatorship;The Incan Republic;;;;;;;;;x;;;;
+INC_fascist_dictatorship;The Incan Republic;;;;;;;;;x;;;;
+INC_democracy;The Incan Republic;;;;;;;;;x;;;;
+ARC;Mapu;;;;;;;;;x;;;;
+ARC_bourgeois_dictatorship;Mapu;;;;;;;;;x;;;;
+ARC_absolute_monarchy;Mapu;;;;;;;;;x;;;;
+ARC_prussian_constitutionalism;Mapu;;;;;;;;;x;;;;
+ARC_hms_government;Mapu;;;;;;;;;x;;;;
+ARC_ADJ;Mapu;;;;;;;;;x;;;;
+ARC_presidential_dictatorship;Mapu;;;;;;;;;x;;;;
+ARC_bourgeois_dictatorship;Mapu;;;;;;;;;x;;;;
+ARC_fascist_dictatorship;Mapu;;;;;;;;;x;;;;
+ARC_democracy;Mapu;;;;;;;;;x;;;;
+POR;Andalus;;;;;;;;;x;;;;
+POR_bourgeois_dictatorship;Andalus Republic;;;;;;;;;x;;;;
+POR_absolute_monarchy;Andalu Empire;;;;;;;;;x;;;;
+POR_prussian_constitutionalism;Andalus Empire;;;;;;;;;x;;;;
+POR_hms_government;The Kingdom of Andalus;;;;;;;;;x;;;;
+POR_ADJ;Andalus;;;;;;;;;x;;;;
+POR_presidential_dictatorship;Andalus Republic;;;;;;;;;x;;;;
+POR_bourgeois_dictatorship;Andalus Republic;;;;;;;;;x;;;;
+POR_fascist_dictatorship;Andalus Empire;;;;;;;;;x;;;;
+POR_democracy;Andalus;;;;;;;;;x;;;;
+EGY_democracy;Mamluks Republic;;;;;;;;;;;;x
+EGY_presidential_dictatorship;Mamluks;;;;;;;;;;;;x
+EGY_bourgeois_dictatorship;Mamluks;;;;;;;;;;;;x
+EGY_absolute_monarchy;Mamluks Empire;;;;;;;;;;;;x
+EGY_prussian_constitutionalism;Mamluks;;;;;;;;;;;;x
+EGY;Mamluks;;;;;;;;;;;;;;
+EGY_ADJ;Mamluk;;;;;;;;;;;;;;
+EGY_fascist_dictatorship;Mamluks;;;;;;;;;;;;;;
+EGY_proletarian_dictatorship;The People's Mamluk;;;;;;;;;;;;x
+KOR_democracy;Goguryeo;;;;;;;;;;;;x
+KOR_presidential_dictatorship;Goguryeo Empire;;;;;;;;;;;;x
+KOR_bourgeois_dictatorship;Goguryeo Empire;;;;;;;;;;;;x
+KOR_absolute_monarchy;Goguryeo Empire;;;;;;;;;;;;x
+KOR_prussian_constitutionalism;Goguryeo Empire;;;;;;;;;;;;x
+KOR;Goguryeo Empire;;;;;;;;;;;;;;
+KOR_ADJ;Goguryean;;;;;;;;;;;;;;
+KOR_fascist_dictatorship;Goguryeo Empire;;;;;;;;;;;;;;
+KOR_proletarian_dictatorship;The People's Goguryeo;;;;;;;;;;;;x

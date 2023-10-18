@@ -1,0 +1,11 @@
+owner = MUG
+controller = MUG
+add_core = MUG
+trade_goods = grain
+life_rating = 32
+fort = 1
+1913.1.1 = {
+	owner = EIC
+	controller = EIC
+	colonial = 0
+}

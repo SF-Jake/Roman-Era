@@ -1,0 +1,10 @@
+owner = SPC
+controller = SPC
+add_core = SPC
+trade_goods = tropical_wood
+life_rating = 25
+1913.1.1 = {
+	owner = BRZ
+	controller = BRZ
+	remove_core = GRP
+}

@@ -1,0 +1,8 @@
+owner = BRT
+controller = BRT
+add_core = BRT
+trade_goods = fish
+life_rating = 32
+1913.1.1 = {
+	trade_goods = opium
+}

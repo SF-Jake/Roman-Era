@@ -1,0 +1,292 @@
+# Audax Validator "!" Ignore_1004
+# Audax Validator "!" Ignore_1009
+#########################################################################
+# 							SUPPLY DEPOT								#
+#########################################################################
+
+
+province_event = {
+	id = 91320
+	title = "EVTNAME91320"
+	desc = "EVTDESC91320"
+
+	trigger = {
+		has_province_modifier = supply_depot
+		OR = {
+			# Audax Validator "." Ignore_1007
+			unit_in_battle = yes
+			country_units_in_province = REB
+			NOT = { controlled_by = THIS }
+		}
+	}
+
+	option = {
+		name = "EVTOPTA91320"
+		remove_province_modifier = supply_depot
+		owner = { add_country_modifier = { name = supply_depot_destroyed duration = 180 } }
+	}
+}
+
+#########################################################################
+# 							DISABLE CRISIS								#
+#########################################################################
+
+country_event = {
+	id = 91327
+	title = "EVTNAME91327"
+	desc = "EVTDESC91327"
+	picture = upper_house
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA91327"
+		set_global_flag = enable_crisis
+		country_event = { id = 91332 days = 0 }
+	}
+
+	option = {
+		name = "EVTOPTB91327"
+		set_global_flag = disable_crisis
+		country_event = { id = 91332 days = 0 }
+	}
+}
+
+country_event = {
+	id = 91328
+	title = "Crisis Cooldown"
+
+	trigger = {
+		tag = GHO
+		NOT = { has_global_flag = disable_crisis }
+		NOT = { has_country_modifier = monthly_timer }
+	}
+
+	option = {
+		add_country_modifier = { name = monthly_timer duration = 30 }
+		
+		any_country = {
+			any_owned = {
+				state_scope = {
+					flashpoint_tension = -100
+				}
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 91329
+	title = "Crisis Cooldown 2"
+
+	is_triggered_only = yes
+
+	option = {
+		country_event = { id = 91329 days = 14 }
+		any_country = {
+			any_owned = {
+				state_scope = {
+					flashpoint_tension = -100
+				}
+			}
+		}
+	}
+}
+
+
+#########################################################################
+# 							AI MIL ACCESS								#
+#########################################################################
+
+#Leave Jan Mayen
+country_event = {
+	id = 91330
+	title = "Leave World Bank"
+	desc = "Players are not allowed to interact with the World Bank"
+
+	trigger = {
+		OR = {
+			JAN = { in_sphere = THIS }
+			alliance_with = JAN
+			military_access = JAN
+		}
+	}
+
+	option = {
+		name = "I won't do it again."
+		diplomatic_influence = {
+			who = JAN
+			value = -400
+		}
+		end_military_access = JAN
+		leave_alliance = JAN
+		relation = {
+			who = JAN
+			value = -400
+		}
+	}
+}
+
+#Leave Jan Mayen
+country_event = {
+	id = 91331
+	title = "Leave Ghost Land"
+	desc = "Players are not allowed to interact with the Ghost Land"
+
+	trigger = {
+		OR = {
+			GHO = { in_sphere = THIS }
+			alliance_with = GHO
+			military_access = GHO
+		}
+	}
+
+	option = {
+		name = "I won't do it again."
+		diplomatic_influence = {
+			who = GHO
+			value = -400
+		}
+		end_military_access = GHO
+		leave_alliance = GHO
+		relation = {
+			who = GHO
+			value = -400
+		}
+	}
+}
+
+#########################################################################
+# 							John Cena General							#
+#########################################################################
+country_event = {
+	id = 91332
+	title = "John Cena General"
+	desc = "You can't see me."
+
+	trigger = {
+		ai = no
+		OR = {
+			civilized = yes
+			tag = JAP
+		}
+		NOT = { has_leader = "§RJohn Cena§W" }
+		NOT = { has_leader = "§RJohn Xina§W" }
+		NOT = { has_country_modifier = john_cena_cooldown }
+	}
+	immediate = {
+		add_country_modifier = {
+			name = john_cena_cooldown
+			duration = 120
+		}
+	}
+	option = {
+		name = "§RJohn Cena§W"
+		define_general = {
+			name = "§RJohn Cena§W"
+			personality = defence_3.1
+			background = attack_3.1
+		}
+	}
+	option = {
+		name = "§RJohn Xina§W"
+		define_general = {
+			name = "§RJohn Xina§W"
+			personality = defence_3.1
+			background = attack_3.1
+		}
+	}
+}
+
+
+#########################################################################
+# 							Infamy Gain Event							#
+#########################################################################
+
+country_event = {
+	id = 14670
+	title = "Infamy Gain"
+	desc = ""
+
+	is_triggered_only = yes
+
+	option = {
+		badboy = 25
+	}
+}
+
+
+#########################################################################
+# 							Infamy Loss Event							#
+#########################################################################
+
+country_event = {
+	id = 14671
+	title = "Infamy Loss"
+	desc = ""
+
+	is_triggered_only = yes
+
+	option = {
+		badboy = -25
+	}
+}
+
+#########################################################################
+# 							War Notification							#
+#########################################################################
+
+country_event = {
+	id = 14674
+	title = "5 Year Warning"
+	desc = "This is a Warning that you have 5 years left to prepare for War"
+	picture = war_1838
+
+	fire_only_once = yes
+
+	trigger = {
+		ai = no
+		year = 1843
+	}
+
+	option = {
+		name = "Prepare the Troops"
+	}
+}
+
+country_event = {
+	id = 14672
+	title = "1 Year Warning"
+	desc = "This is a Warning that you have 1 year left to prepare for War"
+	picture = war_1838
+
+	fire_only_once = yes
+
+	trigger = {
+		ai = no
+		year = 1847
+	}
+
+	option = {
+		name = "Prepare the Troops"
+	}
+}
+
+country_event = {
+	id = 14673
+	title = "1 Month Warning"
+	desc = "This is a Warning that you have 1 month left to prepare for War"
+	picture = war_1838
+
+	fire_only_once = yes
+
+	trigger = {
+		ai = no
+		year = 1847
+		month = 11
+	}
+
+	option = {
+		name = "Prepare the Troops"
+	}
+}

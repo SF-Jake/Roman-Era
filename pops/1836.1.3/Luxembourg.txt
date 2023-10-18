@@ -1,0 +1,1096 @@
+#Luxembourg (172000)
+#In personal union with Netherlands in 1836
+#Luxembourg (172000/43000 POPS)
+397 = {
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 331
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 47
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 284
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 1420
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 3786
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 28225
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 472
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 93
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 93
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 521
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 3314
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 472
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 44280
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 16
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 14
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 70
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 186
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 1382
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 23
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 25
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 162
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 23
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 2169
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 3
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 17
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 45
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 332
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 39
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 521
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 3
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 17
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 44
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 328
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 39
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 515
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 3
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 16
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 44
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 325
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 38
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 510
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 15
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 13
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 65
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 173
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1288
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 22
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 24
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 151
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 22
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 2020
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 31
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 83
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 618
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 10
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 11
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 73
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 10
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 970
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 30
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 81
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 606
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 10
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 11
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 71
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 10
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 950
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 30
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 80
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 594
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 10
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 11
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 70
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 10
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 931
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 35
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 55
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 35
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 54
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 3
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 3
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 14
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 38
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 285
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 33
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 447
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 3
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 3
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 13
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 34
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 256
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 30
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 401
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 3
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 3
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 12
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 34
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 253
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 30
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 398
+    }
+}

@@ -1,0 +1,242 @@
+#Khwarazm Region (40000) #see Uzbekistan.txt and Kazakhstan.txt for balance of region 
+#under the rule of Khiva in 1836  
+#Dashhowuz (40000/10000 POPS) #now part of Turkmenistan  
+1195 = {
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 175
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 9200
+	}
+}
+#Turkmenia Region (368000) 
+#under the rule of Khiva in 1836  
+#Ashkabad (148000/32000 POPS)   
+1204 = {
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 500
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 275
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 1250
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 300
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 25675
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = shiite
+		size = 25
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = shiite
+		size = 200
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = shiite
+		size = 25
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = shiite
+		size = 3750
+	}
+}
+#Kizil Arvut (88000/22000 POPS)   
+1205 = {
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 375
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 175
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 850
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 17400
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = shiite
+		size = 25
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = shiite
+		size = 150
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = shiite
+		size = 25
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = shiite
+		size = 2800
+	}
+}
+#under the rule of Bukhara in 1836  
+#Merv (132000/33000 POPS)   
+1206 = {
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 1825
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = sunni
+		size = 400
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 1100
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = sunni
+		size = 250
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = sunni
+		size = 21025
+	}
+
+	aristocrats = {
+		culture = united_culture
+		religion = shiite
+		size = 50
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = shiite
+		size = 50
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = shiite
+		size = 400
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = shiite
+		size = 75
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = shiite
+		size = 7425
+	}
+
+}

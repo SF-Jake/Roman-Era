@@ -1,0 +1,6136 @@
+#Galicia-Asturias Region (1572000)
+#La Coruna (796000/199000 POPS)
+474 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 2200
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 450
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 650
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 2000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 6350
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 154350
+    }
+}
+#Oviedo (448000/112000 POPS)
+475 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1100
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 1050
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 5000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 10850
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 3900
+    }
+}
+#Vigo (328000/82000 POPS)
+476 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 700
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 800
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 4000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 75500
+    }
+}
+#Leon Region (888000)
+#Leon (280000/70000 POPS)
+477 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 800
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 300
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 400
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 700
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 3500
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 700
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 63600
+    }
+}
+#Santander (178000/44500) POPS
+478 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 500
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 400
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 3500
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 400
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 35700
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 3900
+    }
+}
+#Burgos (236000/59000 POPS)
+479 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 650
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 575
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 5500
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 600
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 50675
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 25
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 975
+    }
+}
+#Valladolid (194000/48500 POPS)
+480 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 600
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 500
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 6000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 500
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 40900
+    }
+}
+#Castilla Vieja Region (724000)
+#Avila (284000/71000 POPS)
+481 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1500
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 250
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 350
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 700
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 3500
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 2000
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 62700
+    }
+}
+#Soria (216000/54000 POPS)
+482 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1100
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 550
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 2600
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 48750
+    }
+}
+#Salamanca (224000/56000 POPS)
+483 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1200
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 550
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 4000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 49250
+    }
+}
+#Extremadura Region (580000)
+#Badajoz (216000/54000 POPS)
+484 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1250
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 250
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 550
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 4500
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 600
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 46650
+    }
+}
+#Almendralejo (192000/48000 POPS)
+485 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1050
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 500
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 2250
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 500
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 43700
+    }
+}
+#Caceres (172000/43000 POPS)
+486 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 900
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 425
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 2500
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 450
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 38725
+    }
+}
+#Castilla Nueva Region (1504000)
+#Madrid (364000/91000 POPS)
+487 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 2000
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 500
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1100
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 900
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 8500
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 6000
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 12100
+    }
+}
+#Siguenza (204000/51000 POPS)
+488 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1200
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 500
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 2500
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 2000
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 45800
+    }
+}
+#Toledo (302000/75500 POPS)
+489 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1550
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 750
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 6000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 5000
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 62200
+    }
+}
+#Cuenca (346000/86500 POPS)
+490 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1800
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 875
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 4200
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 850
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 78775
+    }
+}
+#Ciudad Real (288000/74000 POPS)
+491 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1500
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 700
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 3500
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 700
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 65600
+    }
+}
+#Vizcaya-Navarra Region (710000)
+#Bilbao (308000/77000 POPS)
+492 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 600
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 550
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 3000
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 550
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 51800
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 250
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 200
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1100
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 18850
+    }
+}
+#Pamplona (244000/61000 POPS)
+493 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 700
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 100
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 150
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 375
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1750
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 400
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    labourers = {
+        culture = united_culture
+        religion = catholic
+        size = 35025
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 500
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 200
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 225
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1250
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 250
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 19975
+    }
+}
+#Logrono (158000/39500 POPS)
+494 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 850
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 400
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 2000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 400
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 35850
+    }
+}
+#Aragon Region (764000)
+#Zaragosa (312000/78000 POPS)
+495 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1600
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 250
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 300
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 750
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 5000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 57100
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 1950
+    }
+}
+#Huesca (224000/56000 POPS)
+496 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 350
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1850
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 400
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 35450
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 200
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 175
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 850
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 250
+    }
+
+    labourers = {
+        culture = united_culture
+        religion = catholic
+        size = 16025
+    }
+}
+#Teruel (228000/57000 POPS)
+497 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1200
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 550
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 2750
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1100
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 51500
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+}
+#Catalonia Region (1340000)
+#Barcelona (464000/116000 POPS)
+498 = {
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 2929
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 344
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 947
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 1421
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 17230
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 17230
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 17230
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 1895
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 3446
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 91713
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 861
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 171
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 344
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 473
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 15507
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 518
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 27785
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 143
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 17
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 46
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 70
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 844
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 844
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 844
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 93
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 169
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 4492
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 42
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 8
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 17
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 23
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 760
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 25
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 1361
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 34
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 11
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 17
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 203
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 203
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 203
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 22
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 41
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 1078
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 10
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 182
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 327
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 34
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 11
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 17
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 201
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 201
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 201
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 22
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 40
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 1067
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 10
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 180
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 323
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 34
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 11
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 16
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 199
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 199
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 199
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 22
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 40
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 1057
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 10
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 179
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 320
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 134
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 16
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 43
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 65
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 786
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 786
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 786
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 86
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 157
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 4184
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 39
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 8
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 16
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 22
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 708
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 24
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1268
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 64
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 8
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 21
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 31
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 377
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 377
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 377
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 42
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 75
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 2009
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 19
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 8
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 10
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 340
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 11
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 608
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 63
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 20
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 30
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 370
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 370
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 370
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 41
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 74
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1968
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 19
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 10
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 333
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 11
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 596
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 62
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 20
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 30
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 362
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 362
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 362
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 40
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 72
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1929
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 18
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 10
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 326
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 11
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 584
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 21
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 21
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 21
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 113
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 19
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 34
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 21
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 21
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 21
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 112
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 19
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 34
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 30
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 3
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 10
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 14
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 174
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 174
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 174
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 19
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 35
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 926
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 9
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 3
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 157
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 281
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 26
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 9
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 13
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 157
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 157
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 157
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 18
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 32
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 832
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 8
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 141
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 252
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 26
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 9
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 12
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 155
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 155
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 155
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 17
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 31
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 824
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 8
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 139
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 250
+    }
+}
+#Gerona (228000/57000 POPS)
+499 = {
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 1293
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 603
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 3015
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 603
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 57379
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 775
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 344
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 1895
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 432
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 32050
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 63
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 30
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 148
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 30
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 2811
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 38
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 17
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 93
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 21
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 1570
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 15
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 35
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 675
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 9
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 22
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 377
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 15
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 35
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 668
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 9
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 22
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 373
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 15
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 35
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 661
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 9
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 22
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 369
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 59
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 27
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 138
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 27
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 2618
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 35
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 16
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 86
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 20
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1462
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 28
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 13
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 66
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 13
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1257
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 17
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 8
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 42
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 9
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 702
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 28
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 13
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 65
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 13
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1231
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 17
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 41
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 9
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 688
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 27
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 13
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 63
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 13
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1207
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 16
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 40
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 9
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 674
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 71
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 40
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 70
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 39
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 13
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 30
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 580
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 8
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 3
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 19
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 324
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 11
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 27
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 520
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 18
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 290
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 11
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 27
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 515
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 17
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 288
+    }
+}
+#Lerida (164000/41000 POPS)
+500 = {
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 947
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 432
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4737
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 473
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 41614
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 344
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 214
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 2155
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 256
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 19429
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 46
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 21
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 232
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 23
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 2038
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 17
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 11
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 105
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 13
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 952
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 11
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 56
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 489
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 3
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 25
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 3
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 228
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 11
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 55
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 484
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 25
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 3
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 226
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 11
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 55
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 479
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 25
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 3
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 224
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 43
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 20
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 216
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 22
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1899
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 16
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 10
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 98
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 12
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 886
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 21
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 9
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 104
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 10
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 911
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 8
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 47
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 425
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 20
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 9
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 102
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 10
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 893
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 46
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 417
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 20
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 9
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 100
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 10
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 875
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 45
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 409
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 51
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 3
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 24
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 51
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 3
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 24
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 10
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 48
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 5
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 420
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 3
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 22
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 3
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 196
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 9
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 43
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 378
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 19
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 3
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 176
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 9
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 42
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 374
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 19
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 3
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 174
+    }
+}
+#Tarragona (244000/61000 POPS)
+501 = {
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 1464
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 689
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 3446
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 689
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 65219
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 775
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 344
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 1895
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 344
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 30412
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 72
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 34
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 169
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 34
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 3195
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 38
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 17
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 93
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 17
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 1490
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 17
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 8
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 41
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 8
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 767
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 9
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 22
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 358
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 17
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 8
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 40
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 8
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 759
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 9
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 22
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 354
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 17
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 8
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 40
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 8
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 751
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 9
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 22
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = catholic
+        size = 350
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 67
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 31
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 157
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 31
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 2976
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 35
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 16
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 86
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 16
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1388
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 32
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 15
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 75
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 15
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1428
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 17
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 8
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 42
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 8
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 666
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 31
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 15
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 74
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 15
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1400
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 17
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 41
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 653
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 31
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 15
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 72
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 15
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1372
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 16
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 40
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 640
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 81
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = catholic
+        size = 38
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 80
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 1
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 2
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 0
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 37
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 15
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 35
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 659
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 8
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 3
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 19
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 3
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = catholic
+        size = 307
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 13
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 32
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 591
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 18
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 275
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 13
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 31
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 6
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 585
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 7
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+        militancy = 8
+        rebel_type = carlist_rebels
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 17
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 273
+    }
+}
+#Balearics (240000/60000 POPS)
+502 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 400
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 400
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 6000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 400
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 33300
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 200
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 200
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 3000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 200
+    }
+
+    labourers = {
+        culture = united_culture
+        religion = catholic
+        size = 15900
+    }
+}
+#Valencia Region (1016000)
+#Valencia (420000/105000 POPS)
+503 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1100
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 175
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 275
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 550
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1100
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 2000
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 37900
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1100
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 225
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 500
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 500
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 39675
+    }
+}
+#Castellon (212000/53000 POPS)
+504 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 550
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1300
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 250
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 21650
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 500
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 275
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1700
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 250
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 26275
+    }
+}
+#Alicante (384000/96000 POPS)
+505 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1100
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 525
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 2500
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 550
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 49825
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 400
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 400
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 2000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 400
+    }
+
+    labourers = {
+        culture = united_culture
+        religion = catholic
+        size = 38300
+    }
+}
+#Murcia Region (504000/121000 POPS)
+#Cartagena (212000/53000 POPS)
+506 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1100
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 150
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 900
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 525
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 7000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 550
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 42375
+    }
+}
+#Murcia (92000/23000 POPS)
+507 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 500
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 225
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1100
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 250
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 21025
+    }
+}
+#Albacete (20000/50000 POPS)
+508 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1100
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 500
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 2400
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 500
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 45600
+    }
+}
+#Andalucia Region (1176000)
+#Seville (376000/94000 POPS)
+509 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1800
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 550
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 1100
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 5000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 62200
+    }
+}
+#Cordoba (324000/81000 POPS)
+510 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1700
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 800
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 9000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 68500
+    }
+}
+#Huelva (140000/35000 POPS)
+511 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 750
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 375
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 2000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 500
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 31375
+    }
+}
+#Cadiz (336000/84000 POPS)
+512 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1100
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 850
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 6500
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 64650
+    }
+}
+#Alpujarras Region (1296000)
+#Granada (382000/95500 POPS)
+513 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 2750
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 450
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 500
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 950
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 5000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 72850
+    }
+}
+#Malaga (402000/100500 POPS)
+514 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 2700
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 900
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 7500
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 78400
+    }
+}
+#Almeria (242000/60500 POPS)
+515 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1650
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 550
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 5000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 52600
+    }
+}
+#Jaen (270000/67500 POPS)
+516 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 1700
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 600
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 6000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 58200
+    }
+}
+#see Morocco.txt for Ceuta-Melilla
+#Canary Islands Region (208000)
+#Canary Islands (208000/52000 POPS)
+2136 = {
+    aristocrats = {
+        culture = united_culture
+        religion = catholic
+        size = 825
+    }
+
+    officers = {
+        culture = united_culture
+        religion = catholic
+        size = 50
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = catholic
+        size = 75
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = catholic
+        size = 525
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 3000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = catholic
+        size = 500
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = catholic
+        size = 47025
+    }
+}

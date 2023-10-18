@@ -1,0 +1,572 @@
+#Tirol Region (556000) #see Italy.txt for balance of Region
+#under the rule of Austria in 1836  
+#Innsbruck (236000/59000 POPS)
+612 = {
+	aristocrats = {
+		culture = united_culture
+		religion = catholic
+		size = 750 
+	}
+
+	bureaucrats = {
+		culture = united_culture
+		religion = catholic
+		size = 675 
+	}
+
+	officers = {
+		culture = united_culture
+		religion = catholic
+		size = 250 
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = catholic
+		size = 550
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 2750
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 1100 
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = catholic
+		size = 53325
+	}
+}
+#Salzburg (136000/34000 POPS)
+613 = {
+	aristocrats = {
+		culture = united_culture
+		religion = catholic
+		size = 450 
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = catholic
+		size = 650 
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 3250
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = catholic
+		size = 28975
+	}
+}
+#Bregenz (132000/33000 POPS)
+614 = {
+	aristocrats = {
+		culture = united_culture
+		religion = catholic
+		size = 400 
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = catholic
+		size = 300 
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 1500
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 1100 
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = catholic
+		size = 29700
+	}
+}
+#Lienz (52000/13000 POPS)
+615 = {
+	aristocrats = {
+		culture = united_culture
+		religion = catholic
+		size = 175 
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = catholic
+		size = 125
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 600
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 125 
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = catholic
+		size = 11975
+	}
+}
+#Carinthia-Styria Region (736000) #see Slovenia.txt for balance of Region
+#under the rule of Austria in 1836  
+#Graz (380000/95000 POPS)
+616 = {
+	aristocrats = {
+		culture = united_culture
+		religion = catholic
+		size = 1550 
+	}
+
+	bureaucrats = {
+		culture = united_culture
+		religion = catholic
+		size = 525 
+	}
+
+	officers = {
+		culture = united_culture
+		religion = catholic
+		size = 275 
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = catholic
+		size = 1025 
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 1050 
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = catholic
+		size = 80675 
+	}
+}
+#Judenburg (168000/42000 POPS)
+617 = {
+	aristocrats = {
+		culture = united_culture
+		religion = catholic
+		size = 700 
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = catholic
+		size = 450
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 2250
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 450 
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = catholic
+		size = 38150
+	}
+}
+#Klagenfurt (188000/47000 POPS)
+618 = {
+	aristocrats = {
+		culture = united_culture
+		religion = catholic
+		size = 450 
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = catholic
+		size = 325 
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 1550
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 1100 
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = catholic
+		size = 25675
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = catholic
+		size = 175 
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 950
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 200 
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = catholic
+		size = 16675 
+	}
+}
+#Austria Region (2000000) 
+#under the rule of Austria in 1836  
+#Vienna (1084000/271000 POPS)
+619 = {
+	aristocrats = {
+		culture = united_culture
+		religion = catholic
+		size = 4250 
+	}
+
+	bureaucrats = {
+		culture = united_culture
+		religion = catholic
+		size = 1400 
+	}
+
+	officers = {
+		culture = united_culture
+		religion = catholic
+		size = 600 
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = catholic
+		size = 2750
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 7500
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 2750 
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = catholic
+		size = 194550
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 5950
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = catholic
+		size = 20 
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 980
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = jewish
+		size = 5 
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = jewish
+		size = 495
+	}
+}
+#Sankt Polten (88000/22000 POPS)
+620 = {
+	aristocrats = {
+		culture = united_culture
+		religion = catholic
+		size = 375 
+	}
+
+	bureaucrats = {
+		culture = united_culture
+		religion = catholic
+		size = 600 
+	}
+	
+	clergymen = {
+		culture = united_culture
+		religion = catholic
+		size = 250
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 1200
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 250 
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = catholic
+		size = 19925 
+	}
+}
+#Krems (240000/60000 POPS)
+621 = {
+	aristocrats = {
+		culture = united_culture
+		religion = catholic
+		size = 925 
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = catholic
+		size = 625
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 3100
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 650 
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = catholic
+		size = 54700
+	}
+}
+#Linz (588000/147000 POPS)
+622 = {
+	aristocrats = {
+		culture = united_culture
+		religion = catholic
+		size = 2300 
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = catholic
+		size = 3200 
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 7650
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 1550 
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = catholic
+		size = 133900
+	}
+}
+#Odenburg Region (196000) #see Hungary.txt for balance of region
+#under the rule of Austria in 1836
+#Eisenstadt (196000/49000 POPS)
+624 = {
+	aristocrats = {
+		culture = united_culture
+		religion = catholic
+		size = 700 
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = catholic
+		size = 475
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 2450
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 1100 
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = catholic
+		size = 41375
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = catholic
+		size = 60 
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 150
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = catholic
+		size = 25 
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = catholic
+		size = 2765  
+	}
+
+	clergymen = {
+		culture = united_culture
+		religion = protestant
+		size = 35 
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = protestant
+		size = 150
+	}
+
+	artisans = {
+		culture = united_culture
+		religion = protestant
+		size = 25 
+	}
+
+	farmers = {
+		culture = united_culture
+		religion = protestant
+		size = 1790   
+	}
+}

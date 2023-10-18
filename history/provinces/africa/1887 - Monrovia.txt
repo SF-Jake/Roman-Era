@@ -1,0 +1,6 @@
+owner = ENG
+controller = ENG
+colony = 2
+add_core = LIB
+trade_goods = coffee_beans
+life_rating = 35

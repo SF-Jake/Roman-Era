@@ -1,0 +1,9 @@
+owner = KSN
+controller = KSN
+add_core = KSN
+add_core = SCA
+trade_goods = iron
+life_rating = 40
+1913.1.1 = { 
+	naval_base = 6
+}

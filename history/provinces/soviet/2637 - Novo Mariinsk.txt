@@ -1,0 +1,5 @@
+owner = TSS
+controller = TSS
+add_core = TSS
+trade_goods = fish
+life_rating = 35

@@ -1,0 +1,10 @@
+owner = GRE
+controller = GRE
+add_core = GRE
+trade_goods = grain
+life_rating = 35
+1913.1.1 = {
+owner = ALB
+controller = ALB
+remove_core = TUR
+}

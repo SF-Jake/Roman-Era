@@ -1,0 +1,2064 @@
+#Faroe Islands Region (7000)
+#Torshavn (7000/1750 POPS)
+253 = {
+    bureaucrats = {
+        culture = united_culture
+        religion = protestant
+        size = 15
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 135
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 1575
+    }
+}
+#Jutland Region : 548000
+#Aarhus (248000/62000 POPS)
+366 = {
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 500
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = protestant
+        size = 350
+    }
+
+    officers = {
+        culture = united_culture
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 375
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 3250
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 7000
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 50325
+    }
+}
+#Alborg (152000/38000 POPS)
+367 = {
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 250
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 250
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 2000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 500
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 30000
+    }
+}
+#Ribe (148000/37000 POPS)
+368 = {
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 250
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 250
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 1100
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 500
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 24000
+    }
+}
+# Esbjerg (Pops moved from Aalborg)
+2557 = {
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 1100
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 125
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 250
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 250
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 14400
+    }
+}
+#Schleswig Region : 336000
+#Flensburg (236000/59000 POPS)
+370 = {
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 188
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 236
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 2840
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 472
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 26569
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 1231
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 188
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 284
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 472
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 4733
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 946
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 73595
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 9
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 12
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 139
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 23
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 1301
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 60
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 9
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 14
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 23
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 232
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 46
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 3605
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 3
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 33
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 6
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 312
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 14
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 3
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 6
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 56
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 11
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 865
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 3
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 33
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 6
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 309
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 14
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 3
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 6
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 55
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 11
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 856
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 3
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 33
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 5
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 306
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 14
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 3
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 5
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 55
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 11
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 848
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 9
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 11
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 130
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 22
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 1212
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 56
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 9
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 13
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 22
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 216
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 43
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 3358
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 4
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 62
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 10
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 582
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 27
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 4
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 6
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 10
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 104
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 21
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 1612
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = protestant
+        size = 4
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = protestant
+        size = 5
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = protestant
+        size = 61
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = protestant
+        size = 10
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = protestant
+        size = 570
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = protestant
+        size = 26
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = protestant
+        size = 4
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = protestant
+        size = 6
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = protestant
+        size = 10
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = protestant
+        size = 102
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = protestant
+        size = 20
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = protestant
+        size = 1580
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 4
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 5
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 60
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 10
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 559
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 26
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 4
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 6
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 10
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 100
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 20
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 1548
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = protestant
+        size = 0
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = protestant
+        size = 0
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = protestant
+        size = 3
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = protestant
+        size = 1
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = protestant
+        size = 33
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = protestant
+        size = 0
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = protestant
+        size = 0
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = protestant
+        size = 1
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = protestant
+        size = 6
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = protestant
+        size = 1
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = protestant
+        size = 91
+    }
+
+    officers = {
+        culture = united_culture
+        religion = protestant
+        size = 0
+    }
+
+    officers = {
+        culture = united_culture
+        religion = protestant
+        size = 0
+    }
+
+    officers = {
+        culture = united_culture
+        religion = protestant
+        size = 3
+    }
+
+    officers = {
+        culture = united_culture
+        religion = protestant
+        size = 1
+    }
+
+    officers = {
+        culture = united_culture
+        religion = protestant
+        size = 33
+    }
+
+    officers = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    officers = {
+        culture = united_culture
+        religion = protestant
+        size = 0
+    }
+
+    officers = {
+        culture = united_culture
+        religion = protestant
+        size = 0
+    }
+
+    officers = {
+        culture = united_culture
+        religion = protestant
+        size = 1
+    }
+
+    officers = {
+        culture = united_culture
+        religion = protestant
+        size = 6
+    }
+
+    officers = {
+        culture = united_culture
+        religion = protestant
+        size = 1
+    }
+
+    officers = {
+        culture = united_culture
+        religion = protestant
+        size = 90
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = protestant
+        size = 29
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = protestant
+        size = 5
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = protestant
+        size = 268
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = protestant
+        size = 12
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = protestant
+        size = 3
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = protestant
+        size = 5
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = protestant
+        size = 48
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = protestant
+        size = 10
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = protestant
+        size = 743
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 26
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 241
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 11
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 3
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 43
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 9
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 667
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 26
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 238
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 11
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 3
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 42
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 9
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 661
+    }
+}
+#Aabenra (100000/25000 POPS)
+371 = {
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 236
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 2083
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 472
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 31492
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 188
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 93
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 472
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 93
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 12406
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 12
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 102
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 23
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 1543
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 9
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 5
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 23
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 5
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 608
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 3
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 24
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 6
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 370
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 6
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 146
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 3
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 24
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 6
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 367
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 6
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 144
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 3
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 24
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 5
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 363
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 5
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = united_culture
+        religion = protestant
+        size = 143
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 11
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 95
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 22
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 1437
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 9
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 4
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 22
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 4
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 566
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 46
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 10
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 690
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 4
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 10
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 272
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = protestant
+        size = 5
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = protestant
+        size = 45
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = protestant
+        size = 10
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = protestant
+        size = 676
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = protestant
+        size = 4
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = protestant
+        size = 10
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = protestant
+        size = 266
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 5
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 44
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 10
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 662
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 4
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 10
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 261
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = protestant
+        size = 0
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = protestant
+        size = 3
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = protestant
+        size = 1
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = protestant
+        size = 39
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = protestant
+        size = 0
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = protestant
+        size = 0
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = protestant
+        size = 1
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = protestant
+        size = 0
+    }
+
+    capitalists = {
+        culture = united_culture
+        religion = protestant
+        size = 15
+    }
+
+    officers = {
+        culture = united_culture
+        religion = protestant
+        size = 0
+    }
+
+    officers = {
+        culture = united_culture
+        religion = protestant
+        size = 3
+    }
+
+    officers = {
+        culture = united_culture
+        religion = protestant
+        size = 1
+    }
+
+    officers = {
+        culture = united_culture
+        religion = protestant
+        size = 39
+    }
+
+    officers = {
+        culture = united_culture
+        religion = protestant
+        size = 0
+    }
+
+    officers = {
+        culture = united_culture
+        religion = protestant
+        size = 0
+    }
+
+    officers = {
+        culture = united_culture
+        religion = protestant
+        size = 1
+    }
+
+    officers = {
+        culture = united_culture
+        religion = protestant
+        size = 0
+    }
+
+    officers = {
+        culture = united_culture
+        religion = protestant
+        size = 15
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = protestant
+        size = 21
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = protestant
+        size = 5
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = protestant
+        size = 318
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = protestant
+        size = 1
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = protestant
+        size = 5
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = protestant
+        size = 1
+    }
+
+    craftsmen = {
+        culture = united_culture
+        religion = protestant
+        size = 125
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 18
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 286
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 1
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 1
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 113
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 18
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 282
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 2
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 1
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 4
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 1
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 112
+    }
+}
+#Archipelago Region : 616000
+#Copenhagen (392000/98000 POPS)
+372 = {
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = united_culture
+        religion = protestant
+        size = 500
+    }
+
+    officers = {
+        culture = united_culture
+        religion = protestant
+        size = 500
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 750
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 10000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 10000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 6000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 10000
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 57000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = jewish
+        size = 1100
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 1100
+    }
+}
+#Odense (208000/52000 POPS)
+373 = {
+    aristocrats = {
+        culture = united_culture
+        religion = protestant
+        size = 500
+    }
+
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 250
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 3000
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 7000
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 41250
+    }
+}
+#Bornholm (16000/4000 POPS)
+374 = {
+    clergymen = {
+        culture = united_culture
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 400
+    }
+
+    artisans = {
+        culture = united_culture
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = united_culture
+        religion = protestant
+        size = 3500
+    }
+}

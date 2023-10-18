@@ -1,0 +1,8 @@
+owner = LIT
+controller = LIT
+add_core = LIT
+trade_goods = wool
+life_rating = 35
+1913.1.1 = {
+	trade_goods = cattle
+}

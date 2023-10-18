@@ -1,0 +1,10 @@
+owner = RME
+controller = RME
+colony = 2
+trade_goods = tropical_wood
+life_rating = 35
+1913.1.1 = {
+	owner = HON
+	controller = HON
+	remove_core = UCA
+}

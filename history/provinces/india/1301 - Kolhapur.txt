@@ -1,0 +1,10 @@
+owner = MAH
+controller = MAH
+add_core = MAH
+trade_goods = tea_leaves
+life_rating = 32
+1913.1.1 = {
+	owner = EIC
+	controller = EIC
+	colonial = 0
+}

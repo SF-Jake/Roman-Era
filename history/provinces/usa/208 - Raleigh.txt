@@ -1,0 +1,5 @@
+owner = CSA
+controller = CSA
+add_core = CSA
+trade_goods = tobacco
+life_rating = 35

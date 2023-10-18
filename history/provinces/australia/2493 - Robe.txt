@@ -1,0 +1,5 @@
+owner = ARA
+controller = ARA
+colony = 2
+trade_goods = fish
+life_rating = 35

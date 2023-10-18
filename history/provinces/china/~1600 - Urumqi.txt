@@ -1,0 +1,18 @@
+owner = XIN
+controller = XIN
+add_core = XIN
+add_core = CHI
+trade_goods = cotton
+life_rating = 32
+1913.1.1 = {
+	state_building = {
+		level = 1
+		building = fabric_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 1
+		building = regular_clothes_factory
+		upgrade = yes
+	}
+}
