@@ -1,7 +1,6 @@
-owner = JAI
-controller = JAI
-add_core = JAI
-add_core = HND
+owner = JOD
+controller = JOD
+add_core = JOD
 trade_goods = wool
 life_rating = 32
 1913.1.1 = {

@@ -1,5 +1,6 @@
-owner = USAcontroller = USAadd_core = USA
-add_core = NEN
+owner = USA
+controller = USA
+add_core = USA
 trade_goods = timber
 life_rating = 35
 1913.1.1 = {
